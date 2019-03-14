@@ -4,7 +4,7 @@ A jpeg encoder written in python. It can encode a BMP image file to a JPEG file.
 
 ### **Usage:**
 
-`python jpegEncoder.py inputBMPFileName outputJPEGFilename quality(from 1 to 100) debugMode(0 or 1)`
+`python jpegEncoder.py inputBMPFileName outputJPEGFileName quality(from 1 to 100) debugMode(0 or 1)`
 
 Example:
 
