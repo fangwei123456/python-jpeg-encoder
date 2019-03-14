@@ -1,6 +1,6 @@
 # python-jpeg-encoder
 
-A jpeg encoder written in python. It can encode BMP image file to JPEG file. A jpeg decoder written in python is not needed because the encoder will create a standardized JPEG file, which can be opened with any picture viewer.
+A jpeg encoder written in python. It can encode a BMP image file to a JPEG file. A jpeg decoder written in python is not needed because the encoder will create a standardized JPEG file, which can be opened with any picture viewer.
 
 ### **Usage:**
 
