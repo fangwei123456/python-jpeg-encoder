@@ -12,7 +12,7 @@ Example:
 
 ### **More information:**
 
-If `debugMode` is 1, you will get more detail about encoding process.
+If `debugMode` is 1, you will get more details about encoding process.
 
 For example, run `jpegEncoder.py` by:
 
